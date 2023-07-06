@@ -1,4 +1,4 @@
-#!/home/iniad/SW-exercise1/ex11/django-test-exercise/venv/bin/python3
+#!/home/iniad/SW-exercise1/ex11/django-test-exercise/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
